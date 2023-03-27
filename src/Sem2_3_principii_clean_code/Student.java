@@ -1,4 +1,4 @@
-package Sem2_3_principii_clean_code.clase;
+package Sem2_3_principii_clean_code;
 
 public class Student extends Aplicant {
 	protected String facultate;

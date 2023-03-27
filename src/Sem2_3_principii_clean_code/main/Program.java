@@ -1,9 +1,9 @@
-package Sem2_3_principii_clean_code.clase.main;
+package Sem2_3_principii_clean_code.main;
 
 
-import Sem2_3_principii_clean_code.clase.Aplicant;
-import Sem2_3_principii_clean_code.clase.readers.AngajatReader;
-import Sem2_3_principii_clean_code.clase.readers.AplicantReader;
+import Sem2_3_principii_clean_code.Aplicant;
+import Sem2_3_principii_clean_code.readers.AngajatReader;
+import Sem2_3_principii_clean_code.readers.AplicantReader;
 
 import java.io.FileNotFoundException;
 import java.util.List;

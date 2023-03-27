@@ -1,8 +1,7 @@
-package Sem2_3_principii_clean_code.clase.readers;
+package Sem2_3_principii_clean_code.readers;
 
-import Sem2_3_principii_clean_code.clase.Aplicant;
+import Sem2_3_principii_clean_code.Aplicant;
 
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.List;
 import java.util.Scanner;
