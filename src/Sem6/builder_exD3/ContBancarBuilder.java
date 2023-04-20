@@ -28,13 +28,11 @@ public class ContBancarBuilder implements InterfataBuilder {
     }
 
     public ContBancar build(){
-        ContBancar cont=new ContBancar(this.salariu, this.internet,
-                this.numeClient, this.cardAtasat);
+        ContBancar cont=new ContBancar(this.salariu, this.internet, this.numeClient, this.cardAtasat);
         return cont;
     }
 
     //constructor de la Builder fara parametrii care initializeaza atributele cu val default
-
 
     public ContBancarBuilder() {
       this.salariu=false;

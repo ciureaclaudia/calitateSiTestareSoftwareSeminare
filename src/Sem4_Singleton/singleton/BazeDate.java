@@ -4,7 +4,7 @@ public class BazeDate {
     private int dimensiuneDate;
     private int numarTabele;
     private String denumire;
-    public static BazeDate instanta = new BazeDate(100, 2, "A");
+    private static BazeDate instanta = new BazeDate(100, 2, "A");
 
     private BazeDate() {
     }
