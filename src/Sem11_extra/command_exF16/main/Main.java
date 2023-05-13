@@ -1,9 +1,9 @@
-package Sem11_extra.command;
+package Sem11_extra.command_exF16.main;
 
-import Sem11_extra.command.clase.Autobuz;
-import Sem11_extra.command.clase.CommandPlecareCursa;
-import Sem11_extra.command.clase.IAutomobil;
-import Sem11_extra.command.clase.ManagerComenzi;
+import Sem11_extra.command_exF16.clase.Autobuz;
+import Sem11_extra.command_exF16.clase.CommandPlecareCursa;
+import Sem11_extra.command_exF16.clase.IAutomobil;
+import Sem11_extra.command_exF16.clase.ManagerComenzi;
 
 public class Main {
     public static void main(String[] args){
