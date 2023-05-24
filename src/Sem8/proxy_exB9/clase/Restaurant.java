@@ -9,6 +9,6 @@ public class Restaurant implements Irestaurant{
 
     @Override
     public void rezervaMasa(int nrPers) {
-        System.out.println("Masa a fost rezervata pt "+ nume+" la restaurantul "+ nume);
+        System.out.println("Masa a fost rezervata pt "+ nrPers+" la restaurantul "+ nume);
     }
 }
