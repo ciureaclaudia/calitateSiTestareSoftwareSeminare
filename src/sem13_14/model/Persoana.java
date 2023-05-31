@@ -1,6 +1,4 @@
-package sem13.model;
-
-import sem13.model.IPersoana;
+package sem13_14.model;
 
 import java.util.Calendar;
 import java.util.concurrent.TimeUnit;

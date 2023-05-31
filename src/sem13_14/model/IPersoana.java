@@ -1,4 +1,4 @@
-package sem13.model;
+package sem13_14.model;
 
 public interface IPersoana {
 	public String getSex();

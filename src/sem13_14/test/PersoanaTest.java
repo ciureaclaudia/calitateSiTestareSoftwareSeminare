@@ -1,11 +1,11 @@
-package sem13.test;
+package sem13_14.test;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;
-import sem13.model.ExceptieNenascut;
-import sem13.model.ExceptionCNPNull;
-import sem13.model.IPersoana;
-import sem13.model.Persoana;
+import sem13_14.model.ExceptieNenascut;
+import sem13_14.model.ExceptionCNPNull;
+import sem13_14.model.IPersoana;
+import sem13_14.model.Persoana;
 
 import java.time.Duration;
 
@@ -110,5 +110,7 @@ class PersoanaTest {
         assertEquals(persoana.getNume(),persoana2.getNume());
 
     }
+
+
 
 }
